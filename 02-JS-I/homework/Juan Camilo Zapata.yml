@@ -1,0 +1,13 @@
+ Juan Camilo Zapata 
+
+ Prueba Prep Course Henry
+
+
+ Variables: Las varables en JavaScript son palabras que son reservadas para el lenguaje de programacion, son var const y let adicional se puede guardar informaciòn en ellas
+ String: Es la informaciòn alfanumerica que se escribe entre ''
+ Funciones: Nos permiter agrupar varias expressiones para poder presentarlas en una sola funcion.
+ Argumentos: Son las expresiones que estan agrupadas en una funcion.
+ Return: Es la expresion que le indica a la funcion en que punto debe volver a realizar alguna operacion o accion, todo el codigo que quede debajo de return no se ejecutara
+ Declaraciones if: Sirve para verifica si algun dato ingresado en la funcion es true o false.
+ Valores Booleanos_: En Js se representa con true o false
+ 
