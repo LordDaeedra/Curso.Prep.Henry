@@ -1,0 +1,9 @@
+Que es un bucle for: Sirve para repetir un codigo de bloque muchas veces, depende de tres condiciones
+1. Asignar una variable para contar la cantida de repeticiones
+2. Luego un frenado decidir cuando quieres que deje de ejecutarse
+3. El paso como quieres que se incremente este valor
+
+Operadores logicos 
+&& Quiere indicar y "and" evalua ambas expresiones si las dos son verdaderas devuelve true si ambas o alguna de ellas es falsa devuelve false.
+|| Quiere indicar o "or"  Devuelve true si alguna de las expresioneses true y devuelve false si alguna de las expresiones es false
+! Quiere indicar no y sirve para revertir el resultado esperado de true o false 
